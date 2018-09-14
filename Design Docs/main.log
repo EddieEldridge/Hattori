@@ -1,0 +1,979 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  14 SEP 2018 16:17
+entering extended mode
+**"c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
+("c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
+LaTeX2e <2018-04-01> patch level 5
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrrep
+rt.cls"
+Document Class: scrreprt 2018/03/30 v3.25 KOMA-Script document class (report)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrkba
+se.sty"
+Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrbas
+e.sty"
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrlfi
+le.sty"
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+)))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\tocbas
+ic.sty"
+Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 136.
+Package tocbasic Info: defining new hook before heading of `' on input line 166
+7.
+Class scrreprt Info: File `scrsize11pt.clo' used instead of
+(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 232
+8.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\scrsiz
+e11pt.clo"
+File: scrsize11pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (11pt
+)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\typear
+ea.sty"
+Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1706.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@chapter@maxnumwidth=\skip48
+\scr@dte@section@maxnumwidth=\skip49
+\scr@dte@subsection@maxnumwidth=\skip50
+\scr@dte@subsubsection@maxnumwidth=\skip51
+\scr@dte@paragraph@maxnumwidth=\skip52
+\scr@dte@subparagraph@maxnumwidth=\skip53
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box27
+\scr@dte@figure@maxnumwidth=\skip56
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6247.
+\c@figure=\count88
+\scr@dte@table@maxnumwidth=\skip57
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6264.
+\c@table=\count89
+Class scrreprt Info: Redefining `\numberline' on input line 6433.
+\bibindent=\dimen102
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2018/09/02 3.23 The Babel package
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+"
+File: switch.def 2018/09/02 3.23 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
+ish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2018/09/02 3.23 Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count91
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global.def
+"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count92
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks20
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen112
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen113
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks22
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks23
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks24
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonote
+s.sty"
+Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
+Package: todonotes 2012/07/25
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count108
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
+tikz.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
+cs.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen123
+\pgfutil@tempdimb=\dimen124
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box30
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+frcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+core.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
+fsys.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen125
+\pgf@y=\dimen126
+\pgf@xa=\dimen127
+\pgf@ya=\dimen128
+\pgf@xb=\dimen129
+\pgf@yb=\dimen130
+\pgf@xc=\dimen131
+\pgf@yc=\dimen132
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count109
+\c@pgf@countb=\count110
+\c@pgf@countc=\count111
+\c@pgf@countd=\count112
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen133
+\pgfmath@count=\count115
+\pgfmath@box=\box31
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count116
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen134
+\pgf@picmaxx=\dimen135
+\pgf@picminy=\dimen136
+\pgf@picmaxy=\dimen137
+\pgf@pathminx=\dimen138
+\pgf@pathmaxx=\dimen139
+\pgf@pathminy=\dimen140
+\pgf@pathmaxy=\dimen141
+\pgf@xx=\dimen142
+\pgf@xy=\dimen143
+\pgf@yx=\dimen144
+\pgf@yy=\dimen145
+\pgf@zx=\dimen146
+\pgf@zy=\dimen147
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen148
+\pgf@path@lasty=\dimen149
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen150
+\pgf@shorten@start@additional=\dimen151
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box32
+\pgf@hbox=\box33
+\pgf@layerbox@main=\box34
+\pgf@picture@serial@count=\count117
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen152
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen153
+\pgf@pt@y=\dimen154
+\pgf@pt@temp=\dimen155
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen156
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen157
+\pgf@sys@shading@range@num=\count118
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box35
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box36
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen158
+\pgf@nodesepend=\dimen159
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
+or.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
+eys.sty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
+ty"
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen160
+\pgffor@skip=\dimen161
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count119
+\pgfplotmarksize=\dimen162
+)
+\tikz@lastx=\dimen163
+\tikz@lasty=\dimen164
+\tikz@lastxsaved=\dimen165
+\tikz@lastysaved=\dimen166
+\tikzleveldistance=\dimen167
+\tikzsiblingdistance=\dimen168
+\tikz@figbox=\box37
+\tikz@figbox@bg=\box38
+\tikz@tempbox=\box39
+\tikz@tempbox@bg=\box40
+\tikztreelevel=\count120
+\tikznumberofchildren=\count121
+\tikznumberofcurrentchild=\count122
+\tikz@fig@count=\count123
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count124
+\pgfmatrixcurrentcolumn=\count125
+\pgf@matrix@numberofcolumns=\count126
+)
+\tikz@expandcount=\count127
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count128
+\calc@Bcount=\count129
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count130
+\calc@Cskip=\skip63
+)
+\c@@todonotes@numberoftodonotes=\count131
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
+sty"
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
+hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
+generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
+ty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen171
+\Hy@linkcounter=\count132
+\Hy@pagecounter=\count133
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
+f"
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count134
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
+cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count135
+ ("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen172
+\Fld@menulength=\count136
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count137
+\c@Item=\count138
+\c@Hfootnote=\count139
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count140
+\c@bookmark@seq@number=\count141
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
+check.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip64
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-24.31174pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=49.79231pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count142
+\scratchdimen=\dimen175
+\scratchbox=\box41
+\nofMPsegments=\count143
+\nofMParguments=\count144
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count145
+\MPscratchDim=\dimen176
+\MPnumerator=\count146
+\makeMPintoPDFobject=\count147
+\everyMPtoPDFconversion=\toks41
+)
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 24.
+
+\AtBeginShipoutBox=\box42
+Package hyperref Info: Link coloring ON on input line 24.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
+ty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
+estring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count148
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (main.out) (main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+<./img/HattoriLogo.png, id=146, 1028.34187pt x 263.48438pt>
+File: ./img/HattoriLogo.png Graphic file (type png)
+<use ./img/HattoriLogo.png>
+Package pdftex.def Info: ./img/HattoriLogo.png  used on input line 26.
+(pdftex.def)             Requested size: 426.79134pt x 109.35603pt.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 26.
+
+("C:\Users\Eddie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+[1
+
+
+
+{C:/Users/Eddie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/Hatto
+riLogo.png>] [2
+
+
+] (main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [3
+
+]
+chapter 1.
+[4
+
+]
+chapter 2.
+[5
+
+]
+chapter 3.
+File: ./img/HattoriLogo.png Graphic file (type png)
+<use ./img/HattoriLogo.png>
+Package pdftex.def Info: ./img/HattoriLogo.png  used on input line 79.
+(pdftex.def)             Requested size: 128.0387pt x 32.80278pt.
+[6
+
+]
+chapter 4.
+[7
+
+]
+chapter 5.
+[8
+
+]
+chapter 6.
+[9
+
+]
+chapter 7.
+[10
+
+]
+chapter 8.
+[11
+
+]
+chapter 9.
+[12
+
+]
+chapter 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--226
+
+ []
+
+[13
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F418DFFB37CE70BCECBDC0E972C5EA4C;2064.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
+ ) 
+Here is how much of TeX's memory you used:
+ 19664 strings out of 492972
+ 375368 string characters out of 3126622
+ 564555 words of memory out of 3000000
+ 23142 multiletter control sequences out of 15000+200000
+ 13819 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,8n,66p,9149b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Eddie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecsx1440.pk> <C:\Users\Eddie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecsx1095.pk> <C:\Users\Eddie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\Eddie\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Eddie\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Eddie\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk>
+Output written on main.pdf (13 pages, 299693 bytes).
+PDF statistics:
+ 539 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -14,9 +14,10 @@ public class PlayerMovement : MonoBehaviour {
 
 	void Update ()
     {
-        // Returns a FLOAT from -1.0 to +1.0
+        // Rotation for the ship
+        
 
-        // Movement
+        // Movement for the ship
         Vector3 pos = transform.position;
 
         pos.y += Input.GetAxis("Vertical") * maxSpeed *Time.deltaTime;
