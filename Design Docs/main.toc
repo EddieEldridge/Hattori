@@ -4,26 +4,26 @@
 \contentsline {chapter}{\numberline {3}Specification}{6}{chapter.3}
 \contentsline {section}{\numberline {3.1}Genre}{6}{section.3.1}
 \contentsline {section}{\numberline {3.2}Art Style}{6}{section.3.2}
-\contentsline {chapter}{\numberline {4}Gameplay and Game Setting}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}Story}{7}{section.4.1}
-\contentsline {section}{\numberline {4.2}World/Environment}{7}{section.4.2}
-\contentsline {section}{\numberline {4.3}User Interface}{7}{section.4.3}
-\contentsline {section}{\numberline {4.4}Main Objective}{7}{section.4.4}
-\contentsline {section}{\numberline {4.5}Core Mechanics}{7}{section.4.5}
-\contentsline {section}{\numberline {4.6}Controls}{7}{section.4.6}
-\contentsline {chapter}{\numberline {5}Front End}{8}{chapter.5}
-\contentsline {section}{\numberline {5.1}Start Screen}{8}{section.5.1}
-\contentsline {section}{\numberline {5.2}Menus}{8}{section.5.2}
-\contentsline {section}{\numberline {5.3}End Screen}{8}{section.5.3}
-\contentsline {chapter}{\numberline {6}Technology}{9}{chapter.6}
-\contentsline {section}{\numberline {6.1}Target Systems}{9}{section.6.1}
-\contentsline {section}{\numberline {6.2}Hardware}{9}{section.6.2}
-\contentsline {section}{\numberline {6.3}Development Systems/Tools}{9}{section.6.3}
-\contentsline {chapter}{\numberline {7}Topic and Inclusion}{10}{chapter.7}
-\contentsline {section}{\numberline {7.1}Main Theme}{10}{section.7.1}
-\contentsline {section}{\numberline {7.2}Inclusion}{10}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Diversity}{10}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Accessibility}{10}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Humanity}{10}{subsection.7.2.3}
-\contentsline {chapter}{\numberline {8}Timeline}{11}{chapter.8}
-\contentsline {chapter}{\numberline {9}Team and Credits}{12}{chapter.9}
+\contentsline {chapter}{\numberline {4}Gameplay and Game Setting}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Story}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}World/Environment}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}User Interface}{9}{section.4.3}
+\contentsline {section}{\numberline {4.4}Main Objective}{9}{section.4.4}
+\contentsline {section}{\numberline {4.5}Core Mechanics}{9}{section.4.5}
+\contentsline {section}{\numberline {4.6}Controls}{9}{section.4.6}
+\contentsline {chapter}{\numberline {5}Front End}{10}{chapter.5}
+\contentsline {section}{\numberline {5.1}Start Screen}{10}{section.5.1}
+\contentsline {section}{\numberline {5.2}Menus}{10}{section.5.2}
+\contentsline {section}{\numberline {5.3}End Screen}{10}{section.5.3}
+\contentsline {chapter}{\numberline {6}Technology}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Target Systems}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}Hardware}{11}{section.6.2}
+\contentsline {section}{\numberline {6.3}Development Systems/Tools}{11}{section.6.3}
+\contentsline {chapter}{\numberline {7}Topic and Inclusion}{12}{chapter.7}
+\contentsline {section}{\numberline {7.1}Main Theme}{12}{section.7.1}
+\contentsline {section}{\numberline {7.2}Inclusion}{12}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Diversity}{12}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Accessibility}{12}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Humanity}{12}{subsection.7.2.3}
+\contentsline {chapter}{\numberline {8}Timeline}{13}{chapter.8}
+\contentsline {chapter}{\numberline {9}Team and Credits}{14}{chapter.9}

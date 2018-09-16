@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  16 SEP 2018 12:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  16 SEP 2018 12:42
 entering extended mode
 **"c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
 ("c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
@@ -907,52 +907,67 @@ chapter 2.
 
 ]
 chapter 3.
+<./img/Ikagura.jpg, id=174, 1927.2pt x 1084.05pt>
+File: ./img/Ikagura.jpg Graphic file (type jpg)
+<use ./img/Ikagura.jpg>
+Package pdftex.def Info: ./img/Ikagura.jpg  used on input line 70.
+(pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
+<./img/Warrior.jpg, id=175, 425.59pt x 752.8125pt>
+File: ./img/Warrior.jpg Graphic file (type jpg)
+<use ./img/Warrior.jpg>
+Package pdftex.def Info: ./img/Warrior.jpg  used on input line 76.
+(pdftex.def)             Requested size: 213.39568pt x 377.4736pt.
+<./img/Spaceship.jpg, id=176, 462.528pt x 260.172pt>
+File: ./img/Spaceship.jpg Graphic file (type jpg)
+<use ./img/Spaceship.jpg>
+Package pdftex.def Info: ./img/Spaceship.jpg  used on input line 82.
+(pdftex.def)             Requested size: 426.79135pt x 240.08365pt.
 [6
 
-]
+] [7 <./img/Ikagura.jpg> <./img/Warrior.jpg>] [8 <./img/Spaceship.jpg>]
 chapter 4.
-[7
-
-]
-chapter 5.
-[8
-
-]
-chapter 6.
 [9
 
 ]
-chapter 7.
+chapter 5.
 [10
 
 ]
-chapter 8.
+chapter 6.
 [11
+
+]
+chapter 7.
+[12
+
+]
+chapter 8.
+[13
 
 ]
 chapter 9.
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--189
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
 
  []
 
-[12
+[14
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 560671DB57DBE09F821EFAE5AC5ABCAD;1584.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 19649 strings out of 492972
- 375195 string characters out of 3126622
- 562555 words of memory out of 3000000
- 23135 multiletter control sequences out of 15000+200000
+ 19669 strings out of 492972
+ 375537 string characters out of 3126622
+ 562566 words of memory out of 3000000
+ 23147 multiletter control sequences out of 15000+200000
  13819 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,8n,66p,9149b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -963,9 +978,9 @@ ec\dpi600\ecsx1095.pk> <C:\Users\Eddie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Eddie\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Eddie\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk>
-Output written on main.pdf (12 pages, 286839 bytes).
+Output written on main.pdf (14 pages, 1038488 bytes).
 PDF statistics:
- 478 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 493 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
