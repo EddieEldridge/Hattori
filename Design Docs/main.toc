@@ -1,22 +1,16 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Overview}{4}{chapter.1}
-\contentsline {section}{\numberline {1.1}Main Concept}{4}{section.1.1}
-\contentsline {section}{\numberline {1.2}Unique Selling Point}{4}{section.1.2}
 \contentsline {chapter}{\numberline {2}References}{5}{chapter.2}
 \contentsline {chapter}{\numberline {3}Specification}{6}{chapter.3}
-\contentsline {section}{\numberline {3.1}Player(s) / Target-group}{6}{section.3.1}
-\contentsline {section}{\numberline {3.2}Genre}{6}{section.3.2}
-\contentsline {section}{\numberline {3.3}Art Style}{6}{section.3.3}
-\contentsline {section}{\numberline {3.4}Forms of Engagement}{6}{section.3.4}
+\contentsline {section}{\numberline {3.1}Genre}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Art Style}{6}{section.3.2}
 \contentsline {chapter}{\numberline {4}Gameplay and Game Setting}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}Mood and Emotions}{7}{section.4.1}
-\contentsline {section}{\numberline {4.2}Story}{7}{section.4.2}
-\contentsline {section}{\numberline {4.3}World/Environment}{7}{section.4.3}
-\contentsline {section}{\numberline {4.4}Objects in the Game}{7}{section.4.4}
-\contentsline {section}{\numberline {4.5}Characters in the Game}{7}{section.4.5}
-\contentsline {section}{\numberline {4.6}Main Objective}{7}{section.4.6}
-\contentsline {section}{\numberline {4.7}Core Mechanics}{7}{section.4.7}
-\contentsline {section}{\numberline {4.8}Controls}{7}{section.4.8}
+\contentsline {section}{\numberline {4.1}Story}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}World/Environment}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}User Interface}{7}{section.4.3}
+\contentsline {section}{\numberline {4.4}Main Objective}{7}{section.4.4}
+\contentsline {section}{\numberline {4.5}Core Mechanics}{7}{section.4.5}
+\contentsline {section}{\numberline {4.6}Controls}{7}{section.4.6}
 \contentsline {chapter}{\numberline {5}Front End}{8}{chapter.5}
 \contentsline {section}{\numberline {5.1}Start Screen}{8}{section.5.1}
 \contentsline {section}{\numberline {5.2}Menus}{8}{section.5.2}
@@ -31,6 +25,5 @@
 \contentsline {subsection}{\numberline {7.2.1}Diversity}{10}{subsection.7.2.1}
 \contentsline {subsection}{\numberline {7.2.2}Accessibility}{10}{subsection.7.2.2}
 \contentsline {subsection}{\numberline {7.2.3}Humanity}{10}{subsection.7.2.3}
-\contentsline {chapter}{\numberline {8}Marketing and Publishing Strategy}{11}{chapter.8}
-\contentsline {chapter}{\numberline {9}Timeline}{12}{chapter.9}
-\contentsline {chapter}{\numberline {10}Team and Credits}{13}{chapter.10}
+\contentsline {chapter}{\numberline {8}Timeline}{11}{chapter.8}
+\contentsline {chapter}{\numberline {9}Team and Credits}{12}{chapter.9}

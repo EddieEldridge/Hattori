@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  14 SEP 2018 16:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  16 SEP 2018 12:08
 entering extended mode
 **"c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
 ("c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
@@ -873,7 +873,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<./img/HattoriLogo.png, id=146, 1028.34187pt x 263.48438pt>
+<./img/HattoriLogo.png, id=118, 1028.34187pt x 263.48438pt>
 File: ./img/HattoriLogo.png Graphic file (type png)
 <use ./img/HattoriLogo.png>
 Package pdftex.def Info: ./img/HattoriLogo.png  used on input line 26.
@@ -907,10 +907,6 @@ chapter 2.
 
 ]
 chapter 3.
-File: ./img/HattoriLogo.png Graphic file (type png)
-<use ./img/HattoriLogo.png>
-Package pdftex.def Info: ./img/HattoriLogo.png  used on input line 79.
-(pdftex.def)             Requested size: 128.0387pt x 32.80278pt.
 [6
 
 ]
@@ -935,32 +931,28 @@ chapter 8.
 
 ]
 chapter 9.
-[12
 
-]
-chapter 10.
-
-Underfull \hbox (badness 10000) in paragraph at lines 221--226
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
 
  []
 
-[13
+[12
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F418DFFB37CE70BCECBDC0E972C5EA4C;2064.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
+(rerunfilecheck)             Checksum: 560671DB57DBE09F821EFAE5AC5ABCAD;1584.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
  ) 
 Here is how much of TeX's memory you used:
- 19664 strings out of 492972
- 375368 string characters out of 3126622
- 564555 words of memory out of 3000000
- 23142 multiletter control sequences out of 15000+200000
+ 19649 strings out of 492972
+ 375195 string characters out of 3126622
+ 562555 words of memory out of 3000000
+ 23135 multiletter control sequences out of 15000+200000
  13819 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,8n,66p,9149b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -971,9 +963,9 @@ ec\dpi600\ecsx1095.pk> <C:\Users\Eddie\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Eddie\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Eddie\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk>
-Output written on main.pdf (13 pages, 299693 bytes).
+Output written on main.pdf (12 pages, 286839 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 298 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 478 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 242 words of extra memory for PDF output out of 10000 (max. 10000000)
 

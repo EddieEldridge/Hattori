@@ -251,8 +251,6 @@ INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts
 INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT main.toc
 INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecsx1440.tfm
-INPUT img/HattoriLogo.png
-INPUT ./img/HattoriLogo.png
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
