@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1537101768 "c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex" "main.pdf" "main" 1537101770
+["pdflatex"] 1537102936 "c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex" "main.pdf" "main" 1537102938
   "C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk" 1536928226 26228 39458f48520e9474297f002671cea404 ""
   "C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk" 1536928229 34320 e986fda7b115a7fcc60dae43f332f4c5 ""
   "C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1095.pk" 1536928236 24028 276ba0d4fed2b1ac1e32b1932c1066fe ""
@@ -151,18 +151,18 @@
   "C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xkeyval/xkeyval.sty" 1419270738 5114 9c1069474ff71dbc47d5006555e352d3 ""
-  "c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex" 1537101767 4947 68c6e6d9873c4d4a0c245beb74b5f3fb ""
-  "img/HattoriLogo.png" 1536933159 200166 ad36f72bd7944b83229bc84c09372249 ""
+  "c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex" 1537102933 4947 07571b27191d0fa5ab83e9de08cf5d2e ""
+  "img/HattoriLogo.png" 1537102898 93630 1bc17e6fb0e085f23db167552214e606 ""
   "img/Ikagura.jpg" 1537100001 260562 ef935806816b980c4da1626bbff3af0f ""
   "img/Spaceship.jpg" 1537101116 414070 e97df0cdc330ec524214ed323beb1f70 ""
   "img/Warrior.jpg" 1537100644 74318 3bbebacb812ed4e578b71d1d3e8de5aa ""
-  "main.aux" 1537101770 4736 b87dd5232d1a54ff511ffee4f54a2a21 ""
-  "main.out" 1537101770 1584 91e72091463f99f3b2ec9655e00a6e28 ""
-  "main.tex" 1537101767 4947 68c6e6d9873c4d4a0c245beb74b5f3fb ""
-  "main.toc" 1537101770 2041 53ab08613efaaa587da70cef5c20f609 ""
+  "main.aux" 1537102938 4736 b87dd5232d1a54ff511ffee4f54a2a21 ""
+  "main.out" 1537102938 1584 91e72091463f99f3b2ec9655e00a6e28 ""
+  "main.tex" 1537102933 4947 07571b27191d0fa5ab83e9de08cf5d2e ""
+  "main.toc" 1537102938 2041 53ab08613efaaa587da70cef5c20f609 ""
   (generated)
-  "main.pdf"
   "main.out"
-  "main.aux"
   "main.log"
   "main.toc"
+  "main.pdf"
+  "main.aux"
