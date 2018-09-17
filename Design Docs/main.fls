@@ -250,6 +250,9 @@ INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmex1
 INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT main.toc
+INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecbx1095.tfm
+INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omscmr.fd
+INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/omscmr.fd
 INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecsx1440.tfm
 INPUT img/IkaguraGameplay.jpg
 INPUT ./img/IkaguraGameplay.jpg
@@ -266,6 +269,11 @@ INPUT ./img/Warrior.jpg
 INPUT ./img/Warrior.jpg
 INPUT ./img/Warrior.jpg
 INPUT ./img/Warrior.jpg
+INPUT img/FruitNinja.jpg
+INPUT ./img/FruitNinja.jpg
+INPUT ./img/FruitNinja.jpg
+INPUT ./img/FruitNinja.jpg
+INPUT ./img/FruitNinja.jpg
 INPUT img/Spaceship.jpg
 INPUT ./img/Spaceship.jpg
 INPUT ./img/Spaceship.jpg
@@ -276,6 +284,8 @@ INPUT ./main.out
 INPUT ./main.out
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1440.pk
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1440.pk
+INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk
+INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1095.pk
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1095.pk
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk
@@ -286,3 +296,5 @@ INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx1200.pk
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx2074.pk
 INPUT C:/Users/Eddie/AppData/Local/MiKTeX/2.9/fonts/pk/ljfour/jknappen/ec/dpi600/ecsx2074.pk
+INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT C:/Users/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb

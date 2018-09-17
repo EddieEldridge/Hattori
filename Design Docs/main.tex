@@ -26,9 +26,7 @@
 
 \begin{abstract}
 
-  Hattori aim's to be a top-down vertical scrolling shooter taking inspiration from games such as Galaga, Space Invaders and Ikagura.
-  Expanding on the core mechanic of these games, Hattori aim's to
-  add a new layer of depth to these games by introducing an in-depth resource management system combined with new and exciting weapon upgrades for your ship. 
+ Hattori will attempt to re-invent the traditional vertical scrolling space shooter genre by retaining the core gameplay while introducing more interactivity and decision making with the addition of a resource management system, on screen gestures and a detailed upgrade system. 
 
 \end{abstract}
 
@@ -42,17 +40,36 @@
 % ______________________
 \chapter{Overview}
 
-Hattori aim's to be a top-down vertical scrolling shooter taking inspiration from games such as Galaga, Space Invaders and Ikagura.
-Expanding on the core mechanic of these games, Hattori aim's to
-add a new layer of depth to these games by introducing an in-depth resource management system combined with new and exciting weapon upgrades for your ship. 
+Traditionally, a vertical scrolling space shooter consists of the player controlling a spaceship while 'aliens' or enemies attempt to destroy the players ship.
+While this kind of gameplay can be fun, for me personally it quickly loses it's charm as aside from controlling the ship and shooting, there is little else for the player to do. With Hattori, I intend to add an extra layer of depth to the core gameplay of this genre.
+
+
+
+\begin{enumerate}
+  \item \textbf{Resource management}
+  \begin{itemize}
+    \item Link the player's score with the use of special abilities.
+    \item Introduces risk/reward. The player must decide if it is necessary to use a special ability. Overuse of abilites will result in a lower score but not enough use could result in the player losing. Player must find a balance.
+  \end{itemize}
+  \item \textbf{Gesture-based combat}
+  \begin{itemize}
+    \item Rather than the traditional method of defeating enemies through just moving and firing, I intend to introduce abilities that require on-screen gestures to be performed. For example, drawing a circle could represent a bomb, or a cross a sword strike.
+    \item This addition will provide more depth to the game and give the player an opportunity to interact more with the game. Maybe the player is poor at managing his energy/score but can quickly perform gestures. giving them an advantage vs. other players.
+  \end{itemize}
+  \item \textbf{Player upgrade}
+  \begin{itemize}
+    \item To keep players interested, I intend to introduce a way of augmenting or upgrading the player's ship.
+    \item Upgrade systems and character development are very important aspects to any game. They provide the player with a feeling of accomplishment and progress. They also keep the game fresh and exciting as more ways to play the game are introduced as the player progresses through the game.
+  \end{itemize}
+
+\end{enumerate}
 
 % ______________________
 % chapter References
 % ______________________
 
 \chapter{References} 
-Ikaruga
-
+\href{https://www.gamasutra.com/view/feature/130452/improving_player_choices.php}{Improving Player Choices by Tracy Fullerton, Chris Swain and Steve Hoffman}
 % ______________________
 % chapter Specification and Market Analysis 
 % ______________________
@@ -60,7 +77,7 @@ Ikaruga
 \chapter{Specification}
 
 \section{Genre}
-The game will be a score-based, endless, vertical-scrolling shooter.
+Hattori will be a score-based, endless, vertical-scrolling shooter.
 
 
 \section{Art Style}
@@ -86,25 +103,28 @@ The art style of the game will be mainly sci-fi/space focused but will take insp
 
 \begin{figure}[h!]
 \centering
+\includegraphics[width=1\textwidth]{FruitNinja}
+\caption{Gameplay from 'Fruit Ninja'(2010)}
+\end{figure}
+
+\begin{figure}[h!]
+\centering
 \includegraphics[width=1\textwidth]{Spaceship}
 \caption{'Cowboy Bebop' concept art}
 \end{figure}
 
 \chapter{Gameplay and Game Setting}
-Hattori will be an endless, vertical scrolling
 \section{Story}
-the story of the game
+The story of the game will be kept simple to instead focus on gameplay. While exploring space in a ship called the 'Hattori', the player is teleported to an unknown location in space. The player is then confronted by horde of enemies they must defeat to survive.
 
 \section{World/Environment}
-what is the settings of the game 
-
-also, add here a map of your environment or a picture of your world if necessary
+The game will be set in space. As such, the background and enviroment may feel a bit bland, however due to the nature of the story I can expand on this and hope to make the player feel like they are making some kind of progress through space instead of feeling like a static object on a scrolling background. 
 
 \section{User Interface}
-who are the characters in the game?
+
 
 \section{Main Objective}
-what is the goal / main objective of the game?
+The main objective of the game is to stay alive. At the end of each round/wave, the player will have a chance to rest and take count of his resources, health and current upgrades.
 
 \section{Core Mechanics}
 very important section: what are the core mechanics? be specific
@@ -142,7 +162,7 @@ Android, Windows desktop and Universal Windows Platform
 Mouse and keyboard or an accelerometer/touch screen device.
 
 \section{Development Systems/Tools}
-The game will be developed in the Unity engine, using the Unity editor. C Sharp wil be the main programming language. Paint.net will be used to to design art with Visual Studio 2017 and Visual Studio code being used to write the C Sharp code.
+The game will be developed in the Unity engine, using the Unity editor. C Sharp wil be the main programming language. Paint.net will be used to to design art with Visual Studio 2017 and Visual Studio code being used to write the C Sharp code. Git and GitHub are the technologies being utilized for source control. This design document was written in LaTeX and Visual Studio Code.
 % ______________________
 % chapter Game Details
 % ______________________
