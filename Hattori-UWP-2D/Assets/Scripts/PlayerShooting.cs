@@ -18,8 +18,11 @@ public class PlayerShooting : MonoBehaviour {
 		if(Input.GetButton("Fire1") && cooldownTimer <=0)
         {
             Debug.Log("Shooting!");
+
+            // Set delay in between shots
             cooldownTimer = fireDelay;
 
+            // Create instance of bulletPrefab every time player 'fires'
             Instantiate(bulletPrefab, transform.position, transform.rotation);
         }
 	}
