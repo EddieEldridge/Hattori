@@ -4,13 +4,24 @@ using UnityEngine;
 
 public class CollisionDamage : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    // Variables
+    int health = 1;
+
+    void OnTriggerEnter2D()
+    {
+        Debug.Log("Trigger!");
+
+        health--;
+
+        if (health<=0)
+        {
+            Die();
+        }
+    }
+
+
+    void Die()
+    {
+        Destroy(gameObject);
+    }
 }
