@@ -4,13 +4,17 @@ using UnityEngine;
 
 public class SelfDestruct : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+    // Variables
+    public float timer = 1f;
 	
 	// Update is called once per frame
-	void Update () {
-		
+	void Update ()
+    {
+        timer -= Time.deltaTime;
+
+        if(timer<0)
+        {
+            Destroy(gameObject);
+        }
 	}
 }
