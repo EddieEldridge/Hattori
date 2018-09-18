@@ -5,6 +5,7 @@ using UnityEngine;
 public class CollisionDamage : MonoBehaviour {
 
     // Variables
+    public float invulnPeriod = 0;
     public int health = 100;
     float invulnTimer = 0;
     int correctLayer;
@@ -20,7 +21,7 @@ public class CollisionDamage : MonoBehaviour {
         if(invulnTimer <= 0)
         {
             health = health - 50;
-            invulnTimer = 2f;
+            invulnTimer = invulnPeriod;
 
             gameObject.layer = 10;
         }

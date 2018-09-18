@@ -14,8 +14,9 @@ public class PlayerShooting : MonoBehaviour {
         cooldownTimer -= Time.deltaTime;
 
         // Shooting script
-		if(Input.GetButtonDown("Fire1") && cooldownTimer <=0)
+		if(Input.GetButton("Fire1") && cooldownTimer <=0)
         {
+            Debug.Log("Shooting!");
             cooldownTimer = fireDelay;
         }
 	}
