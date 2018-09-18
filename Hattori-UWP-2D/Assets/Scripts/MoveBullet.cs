@@ -4,13 +4,18 @@ using UnityEngine;
 
 public class MoveBullet : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+
+    public float maxSpeed = 5f;
 	
 	// Update is called once per frame
-	void Update () {
-		
-	}
+	void Update ()
+    {
+        // Assign players postion to a Vector3 named pos
+        Vector3 pos = transform.position;
+
+        // Movement for the ship (Vertical)
+        pos.y += maxSpeed * Time.deltaTime;
+        transform.position = pos;
+
+    }
 }
