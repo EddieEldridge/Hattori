@@ -20,4 +20,3 @@
 \contentsline {section}{\numberline {6.2}Hardware}{11}{section.6.2}
 \contentsline {section}{\numberline {6.3}Development Systems/Tools}{11}{section.6.3}
 \contentsline {chapter}{\numberline {7}Timeline}{12}{chapter.7}
-\contentsline {chapter}{\numberline {8}Team and Credits}{13}{chapter.8}
