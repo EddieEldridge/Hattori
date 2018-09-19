@@ -289,6 +289,11 @@ INPUT ./img/FruitNinja.jpg
 INPUT ./img/FruitNinja.jpg
 INPUT ./img/FruitNinja.jpg
 INPUT ./img/FruitNinja.jpg
+INPUT img/Controls.jpg
+INPUT ./img/Controls.jpg
+INPUT ./img/Controls.jpg
+INPUT ./img/Controls.jpg
+INPUT ./img/Controls.jpg
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  19 SEP 2018 18:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  19 SEP 2018 19:10
 entering extended mode
 **"c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
 ("c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
@@ -969,41 +969,49 @@ Package pdftex.def Info: ./img/UI.jpg  used on input line 135.
 <./img/FruitNinja.jpg, id=178, 684.156pt x 385.44pt>
 File: ./img/FruitNinja.jpg Graphic file (type jpg)
 <use ./img/FruitNinja.jpg>
-Package pdftex.def Info: ./img/FruitNinja.jpg  used on input line 149.
+Package pdftex.def Info: ./img/FruitNinja.jpg  used on input line 152.
 (pdftex.def)             Requested size: 426.79135pt x 240.45242pt.
  [10
 
  <./img/FruitNinja.jpg>]
-chapter 5.
-[11
+<./img/Controls.jpg, id=184, 619.113pt x 277.035pt>
+File: ./img/Controls.jpg Graphic file (type jpg)
+<use ./img/Controls.jpg>
+Package pdftex.def Info: ./img/Controls.jpg  used on input line 166.
+(pdftex.def)             Requested size: 426.79135pt x 190.98103pt.
+ [11
 
-]
-chapter 6.
+ <./img/Controls.jpg>]
+chapter 5.
 [12
 
 ]
-chapter 7.
+chapter 6.
 [13
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+chapter 7.
+[14
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E20405F0C8A263AF71063014171C3CE4;1165.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
  ) 
 Here is how much of TeX's memory you used:
- 19700 strings out of 492972
- 376133 string characters out of 3126622
+ 19707 strings out of 492972
+ 376253 string characters out of 3126622
  561539 words of memory out of 3000000
- 23169 multiletter control sequences out of 15000+200000
+ 23173 multiletter control sequences out of 15000+200000
  14602 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,8n,66p,9149b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1017,9 +1025,9 @@ cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Eddie\
 AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk><C:/Use
 rs/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb>
-Output written on main.pdf (13 pages, 1419277 bytes).
+Output written on main.pdf (14 pages, 1517679 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
 
