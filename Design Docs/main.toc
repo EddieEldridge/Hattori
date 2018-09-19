@@ -19,11 +19,5 @@
 \contentsline {section}{\numberline {6.1}Target Systems}{11}{section.6.1}
 \contentsline {section}{\numberline {6.2}Hardware}{11}{section.6.2}
 \contentsline {section}{\numberline {6.3}Development Systems/Tools}{11}{section.6.3}
-\contentsline {chapter}{\numberline {7}Topic and Inclusion}{12}{chapter.7}
-\contentsline {section}{\numberline {7.1}Main Theme}{12}{section.7.1}
-\contentsline {section}{\numberline {7.2}Inclusion}{12}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Diversity}{12}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Accessibility}{12}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Humanity}{12}{subsection.7.2.3}
-\contentsline {chapter}{\numberline {8}Timeline}{13}{chapter.8}
-\contentsline {chapter}{\numberline {9}Team and Credits}{14}{chapter.9}
+\contentsline {chapter}{\numberline {7}Timeline}{12}{chapter.7}
+\contentsline {chapter}{\numberline {8}Team and Credits}{13}{chapter.8}

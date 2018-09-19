@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  17 SEP 2018 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  19 SEP 2018 18:00
 entering extended mode
 **"c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
 ("c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
@@ -876,7 +876,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<./img/HattoriLogo.png, id=118, 1028.34187pt x 263.48438pt>
+<./img/HattoriLogo.png, id=94, 1028.34187pt x 263.48438pt>
 File: ./img/HattoriLogo.png Graphic file (type png)
 <use ./img/HattoriLogo.png>
 Package pdftex.def Info: ./img/HattoriLogo.png  used on input line 26.
@@ -917,12 +917,12 @@ chapter 2.
 
 ]
 chapter 3.
-<./img/IkaguraGameplay.jpg, id=182, 1284.8pt x 722.7pt>
+<./img/IkaguraGameplay.jpg, id=152, 1284.8pt x 722.7pt>
 File: ./img/IkaguraGameplay.jpg Graphic file (type jpg)
 <use ./img/IkaguraGameplay.jpg>
 Package pdftex.def Info: ./img/IkaguraGameplay.jpg  used on input line 87.
 (pdftex.def)             Requested size: 426.79135pt x 240.06866pt.
-<./img/Ikagura.jpg, id=183, 1927.2pt x 1084.05pt>
+<./img/Ikagura.jpg, id=153, 1927.2pt x 1084.05pt>
 File: ./img/Ikagura.jpg Graphic file (type jpg)
 <use ./img/Ikagura.jpg>
 Package pdftex.def Info: ./img/Ikagura.jpg  used on input line 94.
@@ -930,7 +930,7 @@ Package pdftex.def Info: ./img/Ikagura.jpg  used on input line 94.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./img/Warrior.jpg, id=184, 425.59pt x 752.8125pt>
+<./img/Warrior.jpg, id=154, 425.59pt x 752.8125pt>
 File: ./img/Warrior.jpg Graphic file (type jpg)
 <use ./img/Warrior.jpg>
 Package pdftex.def Info: ./img/Warrior.jpg  used on input line 100.
@@ -938,7 +938,7 @@ Package pdftex.def Info: ./img/Warrior.jpg  used on input line 100.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./img/FruitNinja.jpg, id=185, 684.156pt x 385.44pt>
+<./img/FruitNinja.jpg, id=155, 684.156pt x 385.44pt>
 File: ./img/FruitNinja.jpg Graphic file (type jpg)
 <use ./img/FruitNinja.jpg>
 Package pdftex.def Info: ./img/FruitNinja.jpg  used on input line 106.
@@ -946,7 +946,7 @@ Package pdftex.def Info: ./img/FruitNinja.jpg  used on input line 106.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./img/Spaceship.jpg, id=186, 462.528pt x 260.172pt>
+<./img/Spaceship.jpg, id=156, 462.528pt x 260.172pt>
 File: ./img/Spaceship.jpg Graphic file (type jpg)
 <use ./img/Spaceship.jpg>
 Package pdftex.def Info: ./img/Spaceship.jpg  used on input line 112.
@@ -975,36 +975,32 @@ chapter 7.
 
 ]
 chapter 8.
-[13
 
-]
-chapter 9.
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--225
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
 
  []
 
-[14
+[13
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 211.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 211.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 211.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 560671DB57DBE09F821EFAE5AC5ABCAD;1584.
+(rerunfilecheck)             Checksum: 08D05B0967CE10A1568D283D81A82EE1;1218.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
  ) 
 Here is how much of TeX's memory you used:
- 19704 strings out of 492972
- 376199 string characters out of 3126622
- 562605 words of memory out of 3000000
- 23171 multiletter control sequences out of 15000+200000
+ 19687 strings out of 492972
+ 375944 string characters out of 3126622
+ 561551 words of memory out of 3000000
+ 23162 multiletter control sequences out of 15000+200000
  14602 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,8n,66p,9149b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1018,9 +1014,9 @@ cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Eddie\
 AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk><C:/Use
 rs/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb>
-Output written on main.pdf (14 pages, 1324496 bytes).
+Output written on main.pdf (13 pages, 1314827 bytes).
 PDF statistics:
- 539 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 486 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
