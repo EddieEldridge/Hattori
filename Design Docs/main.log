@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  19 SEP 2018 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.14)  24 SEP 2018 18:51
 entering extended mode
 **"c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
 ("c:/Users/Eddie/College/Year4/MobileApps/Hattori-UWP/Design Docs/main.tex"
@@ -882,7 +882,7 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-<./img/HattoriLogo.png, id=90, 1028.34187pt x 263.48438pt>
+<./img/HattoriLogo.png, id=86, 1028.34187pt x 263.48438pt>
 File: ./img/HattoriLogo.png Graphic file (type png)
 <use ./img/HattoriLogo.png>
 Package pdftex.def Info: ./img/HattoriLogo.png  used on input line 26.
@@ -919,99 +919,117 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 
 ]
 chapter 2.
-[5
-
-]
-chapter 3.
-<./img/IkaguraGameplay.jpg, id=147, 1284.8pt x 722.7pt>
+<./img/IkaguraGameplay.jpg, id=137, 1284.8pt x 722.7pt>
 File: ./img/IkaguraGameplay.jpg Graphic file (type jpg)
 <use ./img/IkaguraGameplay.jpg>
-Package pdftex.def Info: ./img/IkaguraGameplay.jpg  used on input line 84.
+Package pdftex.def Info: ./img/IkaguraGameplay.jpg  used on input line 83.
 (pdftex.def)             Requested size: 298.75264pt x 168.04807pt.
-<./img/Invaders.png, id=148, 756.8275pt x 602.25pt>
+<./img/Invaders.png, id=138, 756.8275pt x 602.25pt>
 File: ./img/Invaders.png Graphic file (type png)
 <use ./img/Invaders.png>
-Package pdftex.def Info: ./img/Invaders.png  used on input line 90.
+Package pdftex.def Info: ./img/Invaders.png  used on input line 89.
 (pdftex.def)             Requested size: 298.75264pt x 237.73451pt.
-[6
+[5
 
  <./img/IkaguraGameplay.jpg> <./img/Invaders.png>]
-<./img/Spaceship.jpg, id=157, 462.528pt x 260.172pt>
+<./img/Spaceship.jpg, id=147, 462.528pt x 260.172pt>
 File: ./img/Spaceship.jpg Graphic file (type jpg)
 <use ./img/Spaceship.jpg>
-Package pdftex.def Info: ./img/Spaceship.jpg  used on input line 101.
+Package pdftex.def Info: ./img/Spaceship.jpg  used on input line 100.
 (pdftex.def)             Requested size: 341.43437pt x 192.0677pt.
-<./img/cherry.jpg, id=158, 772.8875pt x 576.1525pt>
+<./img/cherry.jpg, id=148, 772.8875pt x 576.1525pt>
 File: ./img/cherry.jpg Graphic file (type jpg)
 <use ./img/cherry.jpg>
-Package pdftex.def Info: ./img/cherry.jpg  used on input line 107.
+Package pdftex.def Info: ./img/cherry.jpg  used on input line 106.
 (pdftex.def)             Requested size: 341.43437pt x 254.51888pt.
- [7
+ [6
 
  <./img/Spaceship.jpg> <./img/cherry.jpg>]
-chapter 4.
-<./img/Ikagura.jpg, id=166, 1927.2pt x 1084.05pt>
+chapter 3.
+<./img/Ikagura.jpg, id=155, 1927.2pt x 1084.05pt>
 File: ./img/Ikagura.jpg Graphic file (type jpg)
 <use ./img/Ikagura.jpg>
-Package pdftex.def Info: ./img/Ikagura.jpg  used on input line 119.
+Package pdftex.def Info: ./img/Ikagura.jpg  used on input line 118.
 (pdftex.def)             Requested size: 426.79135pt x 240.06316pt.
-[8
+[7
 
  <./img/Ikagura.jpg>]
-<./img/UI.jpg, id=172, 602.25pt x 451.6875pt>
+<./img/UI.jpg, id=162, 602.25pt x 451.6875pt>
 File: ./img/UI.jpg Graphic file (type jpg)
 <use ./img/UI.jpg>
-Package pdftex.def Info: ./img/UI.jpg  used on input line 135.
+Package pdftex.def Info: ./img/UI.jpg  used on input line 134.
 (pdftex.def)             Requested size: 426.79135pt x 320.10764pt.
- [9
+ [8
 
  <./img/UI.jpg>]
-<./img/FruitNinja.jpg, id=178, 684.156pt x 385.44pt>
+<./img/FruitNinja.jpg, id=168, 684.156pt x 385.44pt>
 File: ./img/FruitNinja.jpg Graphic file (type jpg)
 <use ./img/FruitNinja.jpg>
-Package pdftex.def Info: ./img/FruitNinja.jpg  used on input line 152.
+Package pdftex.def Info: ./img/FruitNinja.jpg  used on input line 151.
 (pdftex.def)             Requested size: 426.79135pt x 240.45242pt.
- [10
+ [9
 
  <./img/FruitNinja.jpg>]
-<./img/Controls.jpg, id=184, 619.113pt x 277.035pt>
+<./img/Controls.jpg, id=174, 619.113pt x 277.035pt>
 File: ./img/Controls.jpg Graphic file (type jpg)
 <use ./img/Controls.jpg>
-Package pdftex.def Info: ./img/Controls.jpg  used on input line 166.
+Package pdftex.def Info: ./img/Controls.jpg  used on input line 165.
 (pdftex.def)             Requested size: 426.79135pt x 190.98103pt.
- [11
+ [10
 
  <./img/Controls.jpg>]
-chapter 5.
-[12
+chapter 4.
+<./img/Telltale.jpg, id=180, 564.60938pt x 317.68687pt>
+File: ./img/Telltale.jpg Graphic file (type jpg)
+<use ./img/Telltale.jpg>
+Package pdftex.def Info: ./img/Telltale.jpg  used on input line 179.
+(pdftex.def)             Requested size: 256.07741pt x 144.08723pt.
+<./img/SampleMenu.png, id=181, 1445.4pt x 813.0375pt>
+File: ./img/SampleMenu.png Graphic file (type png)
+<use ./img/SampleMenu.png>
+Package pdftex.def Info: ./img/SampleMenu.png  used on input line 187.
+(pdftex.def)             Requested size: 256.07741pt x 144.04533pt.
+[11
 
-]
-chapter 6.
+ <./img/Telltale.jpg> <./img/SampleMenu.png>]
+<./img/GameOver.jpg, id=188, 532.5158pt x 299.73032pt>
+File: ./img/GameOver.jpg Graphic file (type jpg)
+<use ./img/GameOver.jpg>
+Package pdftex.def Info: ./img/GameOver.jpg  used on input line 196.
+(pdftex.def)             Requested size: 256.07741pt x 144.13875pt.
+ [12
+
+ <./img/GameOver.jpg>]
+chapter 5.
 [13
 
 ]
-chapter 7.
+chapter 6.
 [14
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+chapter 7.
+[15
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 274.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E20405F0C8A263AF71063014171C3CE4;1165.
+(rerunfilecheck)             Checksum: A2269BF3AB957FBE265737D6BA95643C;1105.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 274.
  ) 
 Here is how much of TeX's memory you used:
- 19707 strings out of 492972
- 376253 string characters out of 3126622
+ 19724 strings out of 492972
+ 376585 string characters out of 3126622
  561539 words of memory out of 3000000
- 23173 multiletter control sequences out of 15000+200000
+ 23184 multiletter control sequences out of 15000+200000
  14602 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,8n,66p,9149b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1025,9 +1043,9 @@ cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk> <C:\Users\Eddie\
 AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk><C:/Use
 rs/Eddie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb>
-Output written on main.pdf (14 pages, 1517679 bytes).
+Output written on main.pdf (15 pages, 3596941 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 520 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 233 words of extra memory for PDF output out of 10000 (max. 10000000)
 
