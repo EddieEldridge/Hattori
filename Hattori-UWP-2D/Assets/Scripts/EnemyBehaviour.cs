@@ -6,14 +6,8 @@ public class EnemyBehaviour : MonoBehaviour {
 
     // Variables
     Transform player;
+    public float rotationSpeed = 180f;
 
-	// Use this for initialization
-	void Start ()
-    {
-
-    
-	}
-	
 	// Update is called once per frame
 	void Update ()
     {
@@ -22,7 +16,7 @@ public class EnemyBehaviour : MonoBehaviour {
         {
             // Find the players ship
             GameObject go = GameObject.Find("PlayerShip");
-
+            Debug.Log("Player found");
             if (go != null)
             {
                 player = go.transform;
@@ -42,6 +36,8 @@ public class EnemyBehaviour : MonoBehaviour {
         // We don't want to rotate on the x and y axis as it's a 2D game
         float zAngle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg - 90;
 
-        transform.rotation = Quaternion.Euler(0, 0, zAngle);
+        Quaternion desiredRotation = Quaternion.Euler(0, 0, zAngle);
+        transform.rotation = Quaternion.RotateTowards(transform.rotation, desiredRotation, rotationSpeed * Time.deltaTime);
+
     }
 }

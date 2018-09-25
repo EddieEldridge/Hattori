@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerShooting : MonoBehaviour {
+public class EnemyShooting : MonoBehaviour {
 
     // Variables
+    public Vector3 bulletOffset = new Vector3(0,0.5f,0);
     public GameObject bulletPrefab;
-    public float fireDelay = 0.1f;
+    public float fireDelay = 0.5f;
     float cooldownTimer = 0;
 
     // Update is called once per frame
@@ -15,15 +16,18 @@ public class PlayerShooting : MonoBehaviour {
         cooldownTimer -= Time.deltaTime;
 
         // Shooting script
-		if(Input.GetButton("Fire1") && cooldownTimer <=0)
+		if(cooldownTimer <=0)
         {
-            Debug.Log("Player Shooting!");
+            Debug.Log("Enemy Shooting!");
 
             // Set delay in between shots
             cooldownTimer = fireDelay;
 
+            Vector3 offset = transform.rotation * bulletOffset;
+
             // Create instance of bulletPrefab every time player 'fires'
-            Instantiate(bulletPrefab, transform.position, transform.rotation);
+            GameObject bulletGO = (GameObject)Instantiate(bulletPrefab, transform.position + offset, transform.rotation);
+            bulletGO.layer = gameObject.layer;
         }
 	}
 }
