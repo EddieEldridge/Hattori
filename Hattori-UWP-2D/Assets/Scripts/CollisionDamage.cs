@@ -20,7 +20,12 @@ public class CollisionDamage : MonoBehaviour {
 
         if(spriteRenderer == null)
         {
-            Debug.Log("Error: No sprite found.");
+            spriteRenderer = GetComponentInChildren<SpriteRenderer>();
+
+            if(spriteRenderer == null)
+            {
+                 Debug.Log("Error: No sprite found.");
+            }
         }
         
     }
@@ -46,8 +51,21 @@ public class CollisionDamage : MonoBehaviour {
 
             if(invulnTimer <= 0)
             {
-                 // Displaying invincibility
                  gameObject.layer = correctLayer;
+
+                 // Displaying invincibility
+                 if(spriteRenderer != null)
+                 {
+                     spriteRenderer.enabled=true;
+                 }
+            }
+
+            else
+            {
+                  if(spriteRenderer != null)
+                 {
+                     spriteRenderer.enabled=!spriteRenderer.enabled;
+                 }
             }
         }
 
