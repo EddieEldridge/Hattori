@@ -15,7 +15,7 @@ public class EnemyBehaviour : MonoBehaviour {
         if (player == null)
         {
             // Find the players ship
-            GameObject go = GameObject.Find("PlayerShip");
+            GameObject go = GameObject.FindWithTag("PlayerShip");
             Debug.Log("Player found");
             if (go != null)
             {
