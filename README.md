@@ -1,4 +1,4 @@
-![hattorilogo](![hattoritemplate](https://user-images.githubusercontent.com/22448079/46078949-90483180-c18d-11e8-9f23-7eea7aceb7de.png))
+![hattoritemplate](https://user-images.githubusercontent.com/22448079/46078949-90483180-c18d-11e8-9f23-7eea7aceb7de.png)
 
 <p align="center">
   <b>A 2D scrolling space-shooter game developed in Unity with C# scripting</b><br>
