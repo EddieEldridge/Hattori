@@ -9,7 +9,14 @@ public class EnemyShooting : MonoBehaviour {
     public GameObject bulletPrefab;
     public float fireDelay = 0.5f;
     float cooldownTimer = 0;
+    int bulletLayer;
 
+
+    void Start ()
+    {
+        bulletLayer = gameObject.layer;
+    }
+    
     // Update is called once per frame
 	void Update ()
     {
@@ -27,7 +34,7 @@ public class EnemyShooting : MonoBehaviour {
 
             // Create instance of bulletPrefab every time player 'fires'
             GameObject bulletGO = (GameObject)Instantiate(bulletPrefab, transform.position + offset, transform.rotation);
-            bulletGO.layer = gameObject.layer;
+            bulletGO.layer = bulletLayer;;
         }
 	}
 }

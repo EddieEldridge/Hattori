@@ -10,19 +10,27 @@ public class CollisionDamage : MonoBehaviour {
     float invulnTimer = 0;
     int correctLayer;
 
+    SpriteRenderer spriteRenderer;
+
     void Start()
     {
         correctLayer = gameObject.layer;
+
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        if(spriteRenderer == null)
+        {
+            Debug.Log("Error: No sprite found.");
+        }
+        
     }
     void OnTriggerEnter2D()
     {
-        Debug.Log("Trigger!");
+        health--;
 
-        if(invulnTimer <= 0)
+        if(invulnPeriod > 0)
         {
-            health = health - 50;
             invulnTimer = invulnPeriod;
-
             gameObject.layer = 10;
         }
 
@@ -30,11 +38,17 @@ public class CollisionDamage : MonoBehaviour {
 
     void Update()
     {
-        invulnTimer -= Time.deltaTime;
 
-        if(invulnTimer<=0)
+        if(invulnTimer > 0)
         {
-            gameObject.layer = correctLayer;
+            invulnTimer -= Time.deltaTime;
+
+
+            if(invulnTimer <= 0)
+            {
+                 // Displaying invincibility
+                 gameObject.layer = correctLayer;
+            }
         }
 
         if (health <= 0)

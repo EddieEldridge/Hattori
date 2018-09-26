@@ -293,8 +293,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12c1185032b16f645a37bf5a98cddc04, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  invulnPeriod: 0.5
-  health: 100
+  invulnPeriod: 1
+  health: 3
 --- !u!50 &533041339
 Rigidbody2D:
   serializedVersion: 4

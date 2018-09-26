@@ -8,7 +8,12 @@ public class PlayerShooting : MonoBehaviour {
     public GameObject bulletPrefab;
     public float fireDelay = 0.1f;
     float cooldownTimer = 0;
+    int bulletLayer;
 
+    void Start ()
+    {
+        bulletLayer = gameObject.layer;
+    }
     // Update is called once per frame
 	void Update ()
     {
@@ -23,7 +28,8 @@ public class PlayerShooting : MonoBehaviour {
             cooldownTimer = fireDelay;
 
             // Create instance of bulletPrefab every time player 'fires'
-            Instantiate(bulletPrefab, transform.position, transform.rotation);
+            GameObject bulletGO = (GameObject)Instantiate(bulletPrefab, transform.position, transform.rotation);
+            bulletGO.layer = bulletLayer;
         }
 	}
 }
